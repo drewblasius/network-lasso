@@ -1,0 +1,6 @@
+scikit-learn
+pandas
+numpy
+pymc3
+pytest
+pytest-cov

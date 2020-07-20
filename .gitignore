@@ -1,0 +1,7 @@
+build/
+dist/
+.tox/
+*.pyc
+notebooks/.ipynb_checkpoints
+notebooks/scratch/
+*.egg-info/
